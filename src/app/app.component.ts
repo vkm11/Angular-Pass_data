@@ -6,5 +6,10 @@ import { Component } from '@angular/core';
   styleUrls: ['./app.component.css']
 })
 export class AppComponent {
-  title = 'Angular-Pass_data';
+  title = 'Send Data Child to Parent Component';
+  data = 10;
+  updateChild(){
+    // this.data=Math.random()
+    this.data= Math.floor(Math.random()*10)
+  }
 }
