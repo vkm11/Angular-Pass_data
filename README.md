@@ -1,3 +1,19 @@
+# Send data Parent to child component
+
+1. Make child component
+2. Use child component
+3. send data from parent component
+4. use data in child component
+
+# Resuable Component
+
+1. Make Child Component
+2. use child component in for loop
+3. send data from parent component
+4. use data in child component
+5. Apply css in child component
+
+
 # AngularPassData
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 13.3.3.
