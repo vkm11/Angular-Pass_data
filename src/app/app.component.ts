@@ -12,4 +12,10 @@ export class AppComponent {
     // this.data=Math.random()
     this.data= Math.floor(Math.random()*10)
   }
+
+  userDetails=[
+    {name: 'vijay', email:'vijay@gmail.com'},
+    {name: 'kumar', email:'kumar@gmail.com'},
+    {name: 'Prajwal', email:'Prajwal@gmail.com'}
+  ]
 }
